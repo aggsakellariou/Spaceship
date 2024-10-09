@@ -9,7 +9,6 @@ A simple and fun spaceship game developed using Windows Forms (C#). The goal of 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
