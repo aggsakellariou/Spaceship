@@ -8,8 +8,6 @@ A simple and fun spaceship game developed using Windows Forms (C#). The goal of 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Gameplay](#gameplay)
-- [License](#license)
 
 ## Features
 
@@ -48,16 +46,3 @@ A simple and fun spaceship game developed using Windows Forms (C#). The goal of 
 - Avoid the obstacles that appear on the screen.
 - The game gets progressively harder, so stay sharp!
 - Your score is displayed on the screen, and your highest score is tracked during the session.
-
-## Gameplay
-
-The spaceship game is a simple arcade-style game where you control a spaceship and navigate through an endless array of obstacles. The longer you survive, the higher your score.
-
-### Controls:
-
-- **Arrow keys**: Control the movement of the spaceship.
-- **Esc**: Pause or exit the game.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
