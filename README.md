@@ -28,7 +28,7 @@ A simple and fun spaceship game developed using Windows Forms (C#). The goal of 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/spaceship-game.git
+    git clone https://github.com/aggsakellariou/spaceship-game.git
     ```
 
 2. Open the solution file (`WindowsFormsApp102.sln`) using Visual Studio.
